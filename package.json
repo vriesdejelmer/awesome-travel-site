@@ -1,8 +1,23 @@
 {
-  "name": "travel-site",
+  "name": "awesome-travel-site",
   "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vriesdejelmer/awesome-travel-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vriesdejelmer/awesome-travel-site/issues"
+  },
+  "homepage": "https://github.com/vriesdejelmer/awesome-travel-site#readme",
   "dependencies": {
-    "jquery": "^3.1.1",
-    "normalize.css": "^5.0.0"
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
   }
 }
