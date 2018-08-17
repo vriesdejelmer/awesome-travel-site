@@ -352,8 +352,7 @@ img {
 }
 
 a {
-    
-    color: #2f5572;
+    color: #d59541;
 }
 
 * {
@@ -605,6 +604,5 @@ a {
 
 .generic-content-container p a {
         font-weight: 700;
-        color: #d59541;
     }
 
